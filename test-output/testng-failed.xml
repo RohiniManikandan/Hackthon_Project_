@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="utilities.ExtentReportManager"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="os" value="windows"/>
+    <parameter name="browser" value="chrome"/>
+    <groups>
+      <run>
+        <include name="smoke"/>
+        <include name="regression"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="testCases.TC002_LanguageLearning">
+        <methods>
+          <include name="courseraClickVerification"/>
+          <include name="tearDown"/>
+          <include name="levelCountVerification"/>
+          <include name="languageVerification"/>
+          <include name="setUp"/>
+          <include name="closeVerification"/>
+          <include name="forEnterpriseVerification"/>
+          <include name="showMoreVerification"/>
+        </methods>
+      </class> <!-- testCases.TC002_LanguageLearning -->
+      <class name="testCases.TC001_HomePage">
+        <methods>
+          <include name="searchBox2Verification"/>
+          <include name="tearDown"/>
+          <include name="coursesVerification"/>
+          <include name="webDevelopmentPageVerification"/>
+          <include name="courseraHomePageVerification"/>
+          <include name="scrollingUpVerification"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testCases.TC001_HomePage -->
+      <class name="testCases.TC003_FormPage">
+        <methods>
+          <include name="nameVerification"/>
+          <include name="tearDown"/>
+          <include name="clickingProductVerification"/>
+          <include name="stateVerification"/>
+          <include name="deptVerification"/>
+          <include name="emailVerification"/>
+          <include name="ctryVerification"/>
+          <include name="institutionVerification"/>
+          <include name="jobRoleVerification"/>
+          <include name="phnoVerification"/>
+          <include name="FormValidation"/>
+          <include name="subButtonVerification"/>
+          <include name="setUp"/>
+          <include name="capturingErrorMessage"/>
+          <include name="learnMoreVerification"/>
+          <include name="bDescVerification"/>
+        </methods>
+      </class> <!-- testCases.TC003_FormPage -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

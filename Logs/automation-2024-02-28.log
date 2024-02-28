@@ -1,0 +1,52 @@
+17:44:21.903 [main] INFO  testCases.TC001_HomePage - ******Printing course name,rating and duration******
+17:44:43.126 [main] INFO  testCases.TC001_HomePage - ******Clearing the search box and print next value******
+17:45:06.824 [main] INFO  testCases.TC001_HomePage - ---------------------------TC002_LanguageLearning---------------------------
+17:45:06.843 [main] INFO  testCases.TC001_HomePage - ******Clicking Show more******
+17:45:29.269 [main] INFO  testCases.TC001_HomePage - ******Printing languages and their count******
+17:45:51.222 [main] INFO  testCases.TC001_HomePage - ******Closing the language tab******
+17:45:51.357 [main] INFO  testCases.TC001_HomePage - ******Printing the levels and their counts******
+17:45:51.463 [main] INFO  testCases.TC001_HomePage - ******Clicking Coursera******
+17:45:51.558 [main] INFO  testCases.TC001_HomePage - ******Clicking For Enterprise******
+17:45:51.982 [main] INFO  testCases.TC001_HomePage - ---------------------------TC003_FormPage---------------------------
+17:45:51.985 [main] INFO  testCases.TC001_HomePage - ******Scrolling Down******
+17:45:52.282 [main] INFO  testCases.TC001_HomePage - ******Scrolling Till End******
+17:45:55.390 [main] INFO  testCases.TC001_HomePage - ******Clicking Learn More******
+17:45:55.750 [main] INFO  testCases.TC001_HomePage - ******Entering First Name******
+17:45:56.479 [main] INFO  testCases.TC001_HomePage - ******Entering Email Id******
+17:45:56.743 [main] INFO  testCases.TC001_HomePage - ******Entering Phone Number******
+17:45:56.967 [main] INFO  testCases.TC001_HomePage - ******Choosing Institution Type from the dropdown list******
+17:45:57.144 [main] INFO  testCases.TC001_HomePage - ******Choosing Job Role from the dropdown list******
+17:45:57.336 [main] INFO  testCases.TC001_HomePage - ******Choosing the department from the dropdown list******
+17:45:57.564 [main] INFO  testCases.TC001_HomePage - ******Choosing the Best Describes from the dropdown list******
+17:45:57.795 [main] INFO  testCases.TC001_HomePage - ******Choosing the Country from the dropdown list******
+17:45:57.954 [main] INFO  testCases.TC001_HomePage - ******Choosing the State from the dropdown list******
+17:45:58.183 [main] INFO  testCases.TC001_HomePage - ******Clicking the Submit Button******
+17:45:58.280 [main] INFO  testCases.TC001_HomePage - ******Printing error message******
+17:48:22.303 [main] INFO  testCases.TC001_HomePage - ---------------------------TC001_HomePage---------------------------
+17:48:22.345 [main] INFO  testCases.TC001_HomePage - ******Capturing search box1******
+17:48:42.646 [main] INFO  testCases.TC001_HomePage - ******Captured search box1******
+17:48:46.793 [main] INFO  testCases.TC001_HomePage - ******Clicking both the check boxes******
+17:48:48.931 [main] INFO  testCases.TC001_HomePage - ******Check boxes are clicked******
+17:48:49.398 [main] INFO  testCases.TC001_HomePage - ******Scrolling Up******
+17:48:49.747 [main] INFO  testCases.TC001_HomePage - ******Scrolled Up******
+17:48:50.304 [main] INFO  testCases.TC001_HomePage - ******Printing course name,rating and duration******
+17:49:11.455 [main] INFO  testCases.TC001_HomePage - ******Printed all the required details in course1******
+17:49:11.457 [main] INFO  testCases.TC001_HomePage - ******Printing course name,rating and duration******
+17:49:32.989 [main] INFO  testCases.TC001_HomePage - ******Printed all the required details in course2******
+17:49:34.547 [main] INFO  testCases.TC001_HomePage - ******Clearing the search box and print next value******
+17:49:38.942 [main] INFO  testCases.TC001_HomePage - ******Printed the next value******
+17:49:40.042 [main] INFO  testCases.TC001_HomePage - ---------------------------TC002_LanguageLearning---------------------------
+17:49:40.043 [main] INFO  testCases.TC001_HomePage - ******Clicking Show more******
+17:49:42.152 [main] INFO  testCases.TC001_HomePage - ******Show more is clicked******
+17:49:42.840 [main] INFO  testCases.TC001_HomePage - ******Printing languages and their count******
+17:49:49.566 [main] INFO  testCases.TC001_HomePage - ******Printed the details******
+17:49:50.092 [main] INFO  testCases.TC001_HomePage - ******Closing the language tab******
+17:49:50.424 [main] INFO  testCases.TC001_HomePage - ******Closed******
+17:49:51.006 [main] INFO  testCases.TC001_HomePage - ******Printing the levels and their counts******
+17:49:51.691 [main] INFO  testCases.TC001_HomePage - ******Printed the details******
+17:49:52.102 [main] INFO  testCases.TC001_HomePage - ******Clicking Coursera******
+17:50:03.004 [main] INFO  testCases.TC001_HomePage - ******Clicked******
+17:50:04.743 [main] INFO  testCases.TC001_HomePage - ******Clicking For Enterprise******
+17:50:24.657 [main] INFO  testCases.TC001_HomePage - ******Clicked For Enterprise******
+17:50:26.466 [main] INFO  testCases.TC001_HomePage - ---------------------------TC003_FormPage---------------------------
+17:50:26.469 [main] INFO  testCases.TC001_HomePage - ******Scrolling Down******
